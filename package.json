@@ -5,10 +5,8 @@
   "author": "Christian Nwamba",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt generate",
-    "start": "nuxt start",
-    "generate": "nuxt build"
+    "dev": "nuxt dev",
+    "build": "nuxt generate"
   },
   "dependencies": {
     "isomorphic-unfetch": "^3.1.0",
