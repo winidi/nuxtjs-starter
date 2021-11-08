@@ -10,6 +10,7 @@
         v-for="project in projects"
       />
     </div>
+    <p>TEST</p>
   </div>
 </template>
 
